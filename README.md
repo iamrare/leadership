@@ -2,53 +2,20 @@
 
 This repository has articles about leadership and management, collected from various sources.
 
-Files:
+Articles:
 
-* [The Most Important Leadership Competencies](the_most_important_leadership_compentencies.md)
-* [8 Essential Qualities That Define Great Leadership](8_essential_qualities_that_define_great_leadership.md)
-* [The 9 Traits That Define Great Leadership](the_9_traits_that_define_great_leadership.md)
-* [44 engineering management lessons](44_engineering_management_lessons.md)
-* [57 startup lessons](57_startup_lessons.md)
-* [The Webflow Tech Lead Guide](the_webflow_tech_lead_guide.md)
-
-Related links on the web:
-
-* [TED talks about leadership](https://www.ted.com/topics/leadership)
-
-
-Related links in our repositories:
-
-* [TEAM FOCUS](https://github.com/joelparkerhenderson/team_focus)
-* [Company culture](https://github.com/joelparkerhenderson/company_culture)
-* [Pitch deck](https://github.com/joelparkerhenderson/pitch_deck)
-* [Objectives and key results](https://github.com/joelparkerhenderson/objectives_and_key_results)
-
-## The Leadership Guy
-
-Peter Economy, also known as "The Leadership Guy," says the qualities of today's best leadership are:
-
-* Decisiveness
-* Awareness
-* Focus
-* Accountability
-* Empathy
-* Confidence
-* Optimism
-* Honesty
-* Inspiration
-
-
-## Harvard Business Review
-
-Harvard Business Review describes common leadership styles:
-
-* Coercive: Leaders demand immediate compliance.
-* Authoritative: Leaders mobilize people toward a vision.
-* Affiliative: Leaders create emotional bonds and harmony.
-* Democratic: Leaders build consensus through participation.
-* Pacesetting: Leaders expect excellence and self-direction.
-* Coaching: Leaders develop people for the future.
-* Bureaucratic leadership, whose leaders focus on following every rule.
-* Charismatic leadership, in which leaders inspire enthusiasm in their teams and are energetic in motivating others to move forward.
-* Servant leadership, whose leaders focus on meeting the needs of the team.
-* Transactional leadership, in which leaders inspire by expecting the best from everyone and themselves.
+* [8 Essential Qualities That Define Great Leadership](8-essential-qualities-that-define-great-leadership/index.md)
+* [20 Leadership Quotations by Elon Musk](20-leadership-quotations-by-elon-musk/index.md)
+* [44 Engineering Management Lessons](44-engineering-management-lessons/index.md)
+* [50 Ideas That Changed My Life by David Perell](50-ideas-that-changed-my-life-by-david-perell/index.md)
+* [57 Startup Lessons](57-startup-lessons/index.md)
+* [GE McKinsey 9-box matrix](ge-mckinsey-9-box-matrix/index.md)
+* [Engineering managers, what are the problems you face?](engineering-manager-problems/index.md)
+* [How To Win Friends and Influence People](how-to-win-friends-and-influence-people/index.md)
+* [Leadership styles by Harvard Business Review](leadership-styles-by-harvard-business-review/index.md)
+* [Lessons Learned by Emmett Shear](lessons-learned-by-emmett-shear/index.md)
+* [Qualities of leadership by Peter Economy](qualities-of-leadership-by-peter-economy/index.md)
+* [The Evolution of Management by Kate Matsudaira](the-evolution-of-management-by-kate-matsudaira/index.md)
+* [The Most Important Leadership Competencies](the-most-important-leadership-compentencies/index.md)
+* [The 9 Traits That Define Great Leadership](the-9-traits-that-define-great-leadership/index.md)
+* [The Webflow Tech Lead Guide](the-webflow-tech-lead-guide/index.md)
